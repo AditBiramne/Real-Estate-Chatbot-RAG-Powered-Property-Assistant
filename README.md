@@ -54,7 +54,8 @@ realestate-chatbot/
 ├── retrieve.py               # Phase B: list-mode + semantic search
 ├── prompt.py                 # Phase B: builds the grounded prompt
 ├── llm.py                    # Phase B: calls Llama via Ollama
-└── chat.py                   # Phase B: the chat loop (run this to talk to the bot)
+└── chat.py
+└── voice.py                 
 ```
 
 ---
